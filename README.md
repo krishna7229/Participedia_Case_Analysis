@@ -24,11 +24,11 @@ Participedia is an open platform that crowdsources and organizes information abo
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](Participedia Dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ## 📁 Files
-- [`Participedia_Case_Analysis.pbix`](./Participedia_Case_Analysis.pbix) — Power BI project file
-- `dashboard-preview.png` — Screenshot of final dashboard
+- [`Participedia_Case_Analysis.pbix`](./Participedia_Analysis.pbix) — Power BI project file
+- `Dashboard.png` — Screenshot of final dashboard
 
 ## 📊 Insights Derived
 - The UK and India are among the top countries in terms of total participant counts.
