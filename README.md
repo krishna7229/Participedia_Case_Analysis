@@ -24,7 +24,7 @@ Participedia is an open platform that crowdsources and organizes information abo
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](Participedia Dashboard.png)
 
 ## 📁 Files
 - [`Participedia_Case_Analysis.pbix`](./Participedia_Case_Analysis.pbix) — Power BI project file
