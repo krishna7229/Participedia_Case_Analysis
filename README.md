@@ -39,7 +39,15 @@ Participedia is an open platform that crowdsources and organizes information abo
 ## 👨‍💻 About the Developer
 
 I'm **Krishna Kanth Reddy**, a Business Intelligence Analyst with 4+ years of experience in SQL, ETL, Power BI, and Python. Recently completed my MPS in Analytics from Northeastern University.
+**Krishna Kanth Reddy K**  
+🎓 MPS in Analytics, Northeastern University, Vancouver  
+💼 Data Analyst (4+ years in SQL, ETL, Power BI, and Python)  
+📧 [krishnakanthreddycan@gmail.com](mailto:krishnakanthreddycan@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/krishnakrk)  
 
-- 📧 krishnakanthreddycan@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/krishnakrk)
+**Aquila Pillay**  
+🎓 MPS in Analytics, Northeastern University, Vancouver  
+💼 Data Enthusiast with experience in analytics, visualization, and storytelling  
+📧 [aquilapersis@gmail.com](mailto:aquilapersis@gmail.com)  
+🔗 [LinkedIn](http://linkedin.com/in/aquilapillay)
 
