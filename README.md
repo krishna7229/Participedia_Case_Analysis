@@ -36,9 +36,8 @@ Participedia is an open platform that crowdsources and organizes information abo
 - Many cases show evidence of impact, especially at **City/Town** and **National** levels.
 - Budgeting is the most common specific topic across cases.
 
-## 👨‍💻 About the Developer
+## 👨‍💻 About the Developers
 
-I'm **Krishna Kanth Reddy**, a Business Intelligence Analyst with 4+ years of experience in SQL, ETL, Power BI, and Python. Recently completed my MPS in Analytics from Northeastern University.
 **Krishna Kanth Reddy K**  
 🎓 MPS in Analytics, Northeastern University, Vancouver  
 💼 Data Analyst (4+ years in SQL, ETL, Power BI, and Python)  
